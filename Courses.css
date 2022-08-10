@@ -1,3 +1,6 @@
-.card-body{
-    justify-content: center;
+.dropdown{
+   display:flex; justify-content:center;
+}
+.btn2{
+    display:flex;justify-content:center;
 }
